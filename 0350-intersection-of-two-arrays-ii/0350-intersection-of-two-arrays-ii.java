@@ -8,7 +8,7 @@ class Solution {
         while (i<length1 && j<length2){
             if(nums1[i]<nums2[j]){
                 i++;
-    }
+            }
             else if (nums1[i]>nums2[j]){
                 j++;
             }
